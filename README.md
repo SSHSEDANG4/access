@@ -1,11 +1,12 @@
 # Access ip to script pertalite ssh sedang network
 
-1. First Step
-apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
-
 ## Installation
 
 _It will install the version of SSN-STORE™ that is compatible with your VPS's operating system and version._
+
+```bash
+apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
+```
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
@@ -18,5 +19,7 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
 </p>
 
+## Supported Distros
 
-  
+- Ubuntu 18, 20.
+- Debian 9, 10.

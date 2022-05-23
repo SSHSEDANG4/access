@@ -2,8 +2,6 @@
 
 ## Installation
 
-_It will install the version of SSN-STORE™ that is compatible with your VPS's operating system and version._
-
 - If Not Login Root
 ```bash
 apt install wget && wget https://raw.githubusercontent.com/SSHSEDANG4/simple-root-vps/main/root-main/root.sh && chmod +x root.sh && ./root.sh
@@ -26,6 +24,8 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 </p>
 
 ## Supported Distros
+
+_It will install the version of SSN-STORE™ that is compatible with your VPS's operating system and version :_
 
 - Ubuntu 18, 20.
 - Debian 9, 10.

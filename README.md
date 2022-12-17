@@ -1,4 +1,4 @@
-# Access ip 
+# Access IP
 
 ## Installation
 

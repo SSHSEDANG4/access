@@ -27,5 +27,9 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 
 _It will install the version of SSN-STORE™ that is compatible with your VPS's operating system and version :_
 
-- Ubuntu 18, 20.
-- Debian 9, 10.
+- Ubuntu 20.
+- Debian 10.
+
+## Contact 
+- https://t.me/sshsedang <br>
+- https://wa.me/6282311190332

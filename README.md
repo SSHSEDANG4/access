@@ -1,4 +1,4 @@
-# Access ip to script pertalite ssh sedang network.
+# Access ip 
 
 ## Installation
 
